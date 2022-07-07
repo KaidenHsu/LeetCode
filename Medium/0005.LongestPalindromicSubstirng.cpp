@@ -2,7 +2,7 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         unsigned short tmp1, tmp2, max = 1;
-        string mem1, mem2, ans;
+        string ans;
 
         for(int i = 0; i < s.length(); i++){
             tmp1 = 1, tmp2 = 0;

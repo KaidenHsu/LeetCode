@@ -10,7 +10,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |Hard|[Hard repository][hard_link]|
 
 
-[easy_link]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/README.md
+[easy_link]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy
 [medium_link]:
 [hard_link]:
 

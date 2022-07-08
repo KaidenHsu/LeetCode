@@ -5,8 +5,14 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 ## chart
 
-level | link
+|level | link|
 ---:|:----:
 easy| jj
 medium|jj
 hard|ll
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |

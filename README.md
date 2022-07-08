@@ -26,3 +26,9 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 [0001]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0001.TwoSum.cpp
 [0009]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0009.PalindromeNumber.cpp
+
+## SIMP
+[0001.TwoSum][0001] 
+
+## SHRIMP
+[0009.PalindromeNumber.cpp][0009]

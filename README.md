@@ -15,4 +15,13 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [medium_link]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium
 [hard_link]:https://github.com/Ryanshyu/LeetCode/blob/main/3.Hard
 
-[😀][easy_link]
+# TAGS
+
+##ADD
+[0001.TwoSum][0001] [0009.PalindromeNumber.cpp][0009]
+
+
+
+
+[0001]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0001.TwoSum.cpp
+[0009]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0009.PalindromeNumber.cpp

@@ -6,4 +6,4 @@
 |Hard|[⭐️⭐️⭐️][hard_link]|
 
 
-[TwoSum]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy](https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0001.TwoSum.cpp
+[TwoSum]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0001.TwoSum.cpp

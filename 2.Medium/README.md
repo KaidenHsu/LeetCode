@@ -1,1 +1,1 @@
-## This is the medium section
+## Medium

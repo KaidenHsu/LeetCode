@@ -14,7 +14,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [medium_link]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium
 [hard_link]:https://github.com/Ryanshyu/LeetCode/blob/main/3.Hard
 
-## TAGS
+## Tags
 
 * shrimp
 [0001.TwoSum][0001] [0009.PalindromeNumber.cpp][0009]

@@ -18,16 +18,13 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 ## Tags
 
 * shrimp
-[0001.TwoSum][0001] [0009.PalindromeNumber.cpp][0009]
-
-
-
-
-[0001]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0001.TwoSum.cpp
-[0009]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0009.PalindromeNumber.cpp
+[1.TwoSum][1] [9.PalindromeNumber.cpp][9]
 
 * SIMP
-[0001.TwoSum][0001] 
+[1.TwoSum][1] 
 
 * SHRIMP
-[0009.PalindromeNumber.cpp][0009]
+[9.PalindromeNumber.cpp][9]
+
+[1]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0001.TwoSum.cpp
+[9]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0009.PalindromeNumber.cpp

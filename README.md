@@ -22,6 +22,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 * Intermediate
 
 * Easy
+
 **Array**
 [1.Two Sum][1]
 

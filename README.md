@@ -19,8 +19,10 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 ### Advanced
 
-* Dynamic Programming:
-[5.Longest Palindromic Substring][5] [97.Interleaving String][97] [509.Fibonnaci Number][509] [1696.Jump Game VI][1696]
+|Dynamic Programming|
+|:---:|
+|[5.Longest Palindromic Substring][5]|
+[97.Interleaving String][97] [509.Fibonnaci Number][509] [1696.Jump Game VI][1696]
 
 * Monotonic Queue:
 [1696.Jump Game VI][1696]

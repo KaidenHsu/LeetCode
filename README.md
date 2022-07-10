@@ -57,40 +57,66 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |1473|[Paint House III][1473]|
 |2235|[Add Two Integers][2235]|
 
-* Recursion:
-[509.Fibonacci Number][509]
+|No.|Recursion|
+|:---:|:---:|
+|509|[Fibonacci Number][509]|
 
-* Sliding Window:
-[3.Longest Substring Without Repeating Characters][3] [1696.Jump Game VI][1696]
+|No.|Sliding Window|
+|:---:|:---:|
+|3|[Longest Substring Without Repeating Characters][3]|
+|1696|[Jump Game VI][1696]|
 
-* Tree:
-[2236.Root Equals Sum of Children][2236]
+|No.|Tree|
+|:---:|:---:|
+|2236|[Root Equals Sum of Children][2236]|
 
 ### Easy
 
-* Array:
-[1.Two Sum][1] [15.3 Sum][15] [18.4 Sum][18] [1480.Running Sum of 1D Array][1480] [1696.Jump Game VI][1696]
+|No.|Array|
+|:---:|:---:|
+|1|[Two Sum][1]|
+|15|[3 Sum][15]|
+|18|[4 Sum][18]|
+|1480|[Running Sum of 1D Array][1480]|
+|1696|[Jump Game VI][1696]|
 
-* Linked List:
-[876.Middle of The Linked List][876]
+|No.|Linked List|
+|:---:|:---:|
+|876|[Middle of The Linked List][876]|
 
-* Queue:
-[1696.Jump Game VI][1696]
+|No.|Queue|
+|:---:|:---:|
+|1696|[Jump Game VI][1696]|
 
-* Simulation:
-[412.Fizz Buzz][412]
+|No.|Simulation|
+|:---:|:---:|
+|412|[Fizz Buzz][412]|
 
-* Sorting:
-[15.3 Sum][15] [18.4 Sum][18]
+|No.|Sorting|
+|:---:|:---:|
+|15|[3 Sum][15]|
+|18|[4 Sum][18]|
 
-* Stack:
-[20.Valid Parantheses][20]
+|No.|Stack|
+|:---:|:---:|
+|20|[Valid Parantheses][20]|
 
-* String:
-[3.Longest Substring Without Repeating Characters][3] [5.Longest Palindromic Substring][5] [13.Roman to Integer][13] [14.Longest Common Prefix][14] [20.Valid Parantheses][20] [97.Interleaving String][97] [383.Ransom Note][383] [412.Fizz Buzz][412]
+|No.|String|
+|:---:|:---:|
+|3|[Longest Substring Without Repeating Characters][3]|
+|5|[Longest Palindromic Substring][5]|
+|13|[Roman to Integer][13]|
+|14|[Longest Common Prefix][14]|
+|20|[Valid Parantheses][20]|
+|97|[Interleaving String][97]|
+|383|[Ransom Note][383]|
+|412|[Fizz Buzz][412]|
 
-* Two Pointers:
-[15.3 Sum][15] [18.4 Sum][18] [876.Middle of The Linked List][876]
+|No.|Two Pointers|
+|:---:|:---:|
+|15|[3 Sum][15]|
+|18|[4 Sum][18]|
+|876|[Middle of The Linked List][876]|
 
 
 [1]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0001.TwoSum.cpp

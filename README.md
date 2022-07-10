@@ -25,8 +25,4 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 **Array**
 [1.Two Sum][1]
 
-
-
-
 [1]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0001.TwoSum.cpp
-[9]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0009.PalindromeNumber.cpp

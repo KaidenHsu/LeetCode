@@ -19,59 +19,59 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 ### Advanced
 
-* Dynamic Programming
+* Dynamic Programming:
 [5.Longest Palindromic Substring][5] [97.Interleaving String][97] [509.Fibonnaci Number][509] [1696.Jump Game VI][1696]
 
-* Monotonic Queue
+* Monotonic Queue:
 [1696.Jump Game VI][1696]
 
 ### Intermediate
 
-* Bit Manipulation
+* Bit Manipulation:
 [1342.Number of Steps to Reduce a Number to Zero][1342]
 
-* Binary Tree
+* Binary Tree:
 [2236.Root Equals Sum of Children][2236]
 
-* Hash Table
+* Hash Table:
 [1.Two Sum][1] [3.Longest Substring Without Repeating Characters][3] [13.Roman to Integer][13] [383.Ransom Note][383]
 
-* Math
+* Math:
 [9.Palindrome Number][9] [13.Roman to Integer][13] [412.Fizz Buzz][412] [509.Fibonnaci Number][509] [1342.Number of Steps to Reduce a Number to Zero][1342] [1473.Paint House III][1473] [2235.Add Two Integers][2235]
 
-* Recursion
+* Recursion:
 [509.Fibonacci Number][509]
 
-* Sliding Window
+* Sliding Window:
 [3.Longest Substring Without Repeating Characters][3] [1696.Jump Game VI][1696]
 
-* Tree
+* Tree:
 [2236.Root Equals Sum of Children][2236]
 
 ### Easy
 
-* Array
+* Array:
 [1.Two Sum][1] [15.3 Sum][15] [18.4 Sum][18] [1480.Running Sum of 1D Array][1480] [1696.Jump Game VI][1696]
 
-* Linked List
+* Linked List:
 [876.Middle of The Linked List][876]
 
-* Queue
+* Queue:
 [1696.Jump Game VI][1696]
 
-* Simulation
+* Simulation:
 [412.Fizz Buzz][412]
 
-* Sorting
+* Sorting:
 [15.3 Sum][15] [18.4 Sum][18]
 
-* Stack
+* Stack:
 [20.Valid Parantheses][20]
 
-* String
+* String:
 [3.Longest Substring Without Repeating Characters][3] [5.Longest Palindromic Substring][5] [13.Roman to Integer][13] [14.Longest Common Prefix][14] [20.Valid Parantheses][20] [97.Interleaving String][97] [383.Ransom Note][383] [412.Fizz Buzz][412]
 
-* Two Pointers
+* Two Pointers:
 [15.3 Sum][15] [18.4 Sum][18] [876.Middle of The Linked List][876]
 
 

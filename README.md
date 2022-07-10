@@ -24,6 +24,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |5|[Longest Palindromic Substring][5]|
 |97|[Interleaving String][97]|
 |509|[Fibonnaci Number][509]|
+|746|[Min Cost Climbing Stairs][746]|
 |1696|[Jump Game VI][1696]|
 
 |No.|Monotonic Queue|
@@ -59,6 +60,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 |No.|Recursion|
 |:---:|:---:|
+|21|[Merge Two Linked List][21]|
 |509|[Fibonacci Number][509]|
 
 |No.|Sliding Window|
@@ -77,11 +79,13 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |1|[Two Sum][1]|
 |15|[3 Sum][15]|
 |18|[4 Sum][18]|
+|746|[Min Cost Climbing Stairs][746]|
 |1480|[Running Sum of 1D Array][1480]|
 |1696|[Jump Game VI][1696]|
 
 |No.|Linked List|
 |:---:|:---:|
+|21|[Merge Two Linked List][21]|
 |876|[Middle of The Linked List][876]|
 
 |No.|Queue|
@@ -128,10 +132,12 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [15]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0015.3Sum.cpp
 [18]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0018.4Sum.cpp
 [20]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0020.ValidParantheses.cpp
+[21]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0021.MergeTwoSortedList.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [383]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp
+[746]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp
 [876]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0876.MiddleOfTheLinkedList.cpp
 [1342]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/1342.NumberOfStepsToReduceANumberToZero.cpp
 [1473]:https://github.com/Ryanshyu/LeetCode/blob/main/3.Hard/1473.PaintHouseIII.cpp

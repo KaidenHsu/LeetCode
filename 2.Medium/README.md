@@ -1,1 +1,17 @@
 ## Medium
+
+|No. | Question|
+|:---:|:----:|
+|3|[Longest Substring without Repeating Characters][3]|
+|5|[Longest Palindromic Substring][5]|
+|15|[3 Sum][15]|
+|18|[4 Sum][18]|
+|97|[Interleaving String][97]|
+|1696|[Jump Game IV][1696]|
+
+[3]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0003.LongestSubstringWithoutRepeatingCharacters.cpp
+[5]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0005.LongestPalindromicSubstirng.cpp
+[15]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0015.3Sum.cpp
+[18]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0018.4Sum.cpp
+[97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
+[1696]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/1696.JumpGameVI.cpp

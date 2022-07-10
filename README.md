@@ -3,7 +3,7 @@ This is my compilation of LeetCode solutions written in C++.
 I will keep on updating this repository from time to time.
 Feel free to contact me or make a pull request if you find any mistakes😀.
 
-# Difficulty
+## Difficulty
 |level | link|
 |:---:|:----:|
 |Easy|[⭐️][easy_link]| 
@@ -15,7 +15,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [medium_link]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium
 [hard_link]:https://github.com/Ryanshyu/LeetCode/blob/main/3.Hard
 
-# Tags
+## Tags
 
 ### Advanced
 

@@ -26,8 +26,9 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |509|[Fibonnaci Number][509]|
 |1696|[Jump Game VI][1696]|
 
-* Monotonic Queue:
-[1696.Jump Game VI][1696]
+|No.|Monotonic Queue|
+|:---:|:---:|
+|1696|[Jump Game VI][1696]|
 
 ### Intermediate
 

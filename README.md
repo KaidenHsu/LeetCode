@@ -32,14 +32,20 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 ### Intermediate
 
-* Bit Manipulation:
-[1342.Number of Steps to Reduce a Number to Zero][1342]
+|No.|Bit Manipulation|
+|:---:|:---:|
+|1342|[Number of Steps to Reduce a Number to Zero][1342]|
 
-* Binary Tree:
-[2236.Root Equals Sum of Children][2236]
+|No.|Binary Tree|
+|:---:|:---:|
+|2236|[Root Equals Sum of Children][2236]|
 
-* Hash Table:
-[1.Two Sum][1] [3.Longest Substring Without Repeating Characters][3] [13.Roman to Integer][13] [383.Ransom Note][383]
+|No.|Hash Table|
+|:---:|:---:|
+|1|[Two Sum][1]|
+|3|[Longest Substring Without Repeating Characters][3]|
+|13|[Roman to Integer][13]|
+|383|[Ransom Note][383]|
 
 * Math:
 [9.Palindrome Number][9] [13.Roman to Integer][13] [412.Fizz Buzz][412] [509.Fibonnaci Number][509] [1342.Number of Steps to Reduce a Number to Zero][1342] [1473.Paint House III][1473] [2235.Add Two Integers][2235]

@@ -47,8 +47,15 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |13|[Roman to Integer][13]|
 |383|[Ransom Note][383]|
 
-* Math:
-[9.Palindrome Number][9] [13.Roman to Integer][13] [412.Fizz Buzz][412] [509.Fibonnaci Number][509] [1342.Number of Steps to Reduce a Number to Zero][1342] [1473.Paint House III][1473] [2235.Add Two Integers][2235]
+|No.|Math|
+|:---:|:---:|
+|9|[Palindrome Number][9]|
+|13|[Roman to Integer][13]|
+|412|[Fizz Buzz][412]|
+|509|[Fibonnaci Number][509]|
+|1342|[Number of Steps to Reduce a Number to Zero][1342]|
+|1473|[Paint House III][1473]|
+|2235|[Add Two Integers][2235]|
 
 * Recursion:
 [509.Fibonacci Number][509]

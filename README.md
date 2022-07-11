@@ -19,9 +19,15 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 ### Advanced
 
+
+|No.|Backtracking|
+|:---:|:---:|
+|22|[Generate Parantheses][22]|
+
 |No.|Dynamic Programming|
 |:---:|:---:|
 |5|[Longest Palindromic Substring][5]|
+|22|[Generate Parantheses][22]|
 |97|[Interleaving String][97]|
 |509|[Fibonnaci Number][509]|
 |746|[Min Cost Climbing Stairs][746]|
@@ -39,7 +45,16 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 |No.|Binary Tree|
 |:---:|:---:|
+|199|[Binary Tree Right Side View][199]|
 |2236|[Root Equals Sum of Children][2236]|
+
+|No.|Breadth-First Search|
+|:---:|:---:|
+|199|[Binary Tree Right Side View][199]|
+
+|No.|Depth-First Search|
+|:---:|:---:|
+|199|[Binary Tree Right Side View][199]|
 
 |No.|Hash Table|
 |:---:|:---:|
@@ -71,6 +86,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Tree|
 |:---:|:---:|
 |2236|[Root Equals Sum of Children][2236]|
+|199|[Binary Tree Right Side View][199]|
 
 ### Easy
 
@@ -112,6 +128,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |13|[Roman to Integer][13]|
 |14|[Longest Common Prefix][14]|
 |20|[Valid Parantheses][20]|
+|22|[Generate Parantheses][22]|
 |97|[Interleaving String][97]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
@@ -133,7 +150,9 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [18]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0018.4Sum.cpp
 [20]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0020.ValidParantheses.cpp
 [21]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0021.MergeTwoSortedList.cpp
+[22]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0022.GenerateParantheses.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
+[199]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
 [383]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp

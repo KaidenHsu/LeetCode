@@ -161,6 +161,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [21]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0021.MergeTwoSortedList.cpp
 [22]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0022.GenerateParantheses.cpp
 [26]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0026.RemoveDuplicatesFromSortedArray.cpp
+[27]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0026.RemoveElement.cpp
 [34]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [199]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp

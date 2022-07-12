@@ -25,7 +25,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |22|[Generate Parantheses][22]|
 |473|[Match Sticks to Square][473]|
 
-|No.|Bit Mask|
+|No.|Bitmask|
 |:---:|:---:|
 |473|[Match Sticks to Square][473]|
 

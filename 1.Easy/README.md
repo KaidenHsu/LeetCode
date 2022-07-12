@@ -8,6 +8,7 @@
 |20|[Valid Parantheses][20]|
 |21|[Merge Two Sorted List][21]|
 |26|[Remove Duplicates from Sorted Array][26]|
+|27|[Remove Element][27]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonacci Number][509]|
@@ -26,6 +27,7 @@
 [20]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0020.ValidParantheses.cpp
 [21]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0021.MergeTwoSortedList.cpp
 [26]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0026.RemoveDuplicatesFromSortedArray.cpp
+[27]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0026.RemoveElement.cpp
 [383]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp

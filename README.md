@@ -48,6 +48,10 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |199|[Binary Tree Right Side View][199]|
 |2236|[Root Equals Sum of Children][2236]|
 
+|No.|Binary Search|
+|:---:|:---:|
+|34|[Find First and Last Position of Sorted Array][34]|
+
 |No.|Breadth-First Search|
 |:---:|:---:|
 |199|[Binary Tree Right Side View][199]|
@@ -96,6 +100,8 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |15|[3 Sum][15]|
 |18|[4 Sum][18]|
 |26|[Remove Duplicates from Sorted Array][26]|
+|27|[Remove Element][27]|
+|34|[Find First and Last Position of Sorted Array][34]|
 |746|[Min Cost Climbing Stairs][746]|
 |1480|[Running Sum of 1D Array][1480]|
 |1696|[Jump Game VI][1696]|
@@ -139,6 +145,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |15|[3 Sum][15]|
 |18|[4 Sum][18]|
 |26|[Remove Duplicates from Sorted Array][26]|
+|27|[Remove Element][27]|
 |876|[Middle of The Linked List][876]|
 
 
@@ -154,6 +161,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [21]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0021.MergeTwoSortedList.cpp
 [22]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0022.GenerateParantheses.cpp
 [26]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0026.RemoveDuplicatesFromSortedArray.cpp
+[34]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [199]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
 [383]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp

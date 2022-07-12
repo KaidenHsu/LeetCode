@@ -23,12 +23,18 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Backtracking|
 |:---:|:---:|
 |22|[Generate Parantheses][22]|
+|473|[Match Sticks to Square][473]|
+
+|No.|Bit Mask|
+|:---:|:---:|
+|473|[Match Sticks to Square][473]|
 
 |No.|Dynamic Programming|
 |:---:|:---:|
 |5|[Longest Palindromic Substring][5]|
 |22|[Generate Parantheses][22]|
 |97|[Interleaving String][97]|
+|473|[Match Sticks to Square][473]|
 |509|[Fibonnaci Number][509]|
 |746|[Min Cost Climbing Stairs][746]|
 |1696|[Jump Game VI][1696]|
@@ -41,6 +47,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 |No.|Bit Manipulation|
 |:---:|:---:|
+|473|[Match Sticks to Square][473]|
 |1342|[Number of Steps to Reduce a Number to Zero][1342]|
 
 |No.|Binary Tree|
@@ -102,6 +109,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |26|[Remove Duplicates from Sorted Array][26]|
 |27|[Remove Element][27]|
 |34|[Find First and Last Position of Sorted Array][34]|
+|473|[Match Sticks to Square][473]|
 |746|[Min Cost Climbing Stairs][746]|
 |1480|[Running Sum of 1D Array][1480]|
 |1696|[Jump Game VI][1696]|
@@ -167,6 +175,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [199]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
 [383]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
+[473]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [509]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp
 [746]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp
 [876]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0876.MiddleOfTheLinkedList.cpp

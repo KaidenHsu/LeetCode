@@ -10,6 +10,7 @@
 |34|[Find First and Last Position of Sorted Array][34]|
 |97|[Interleaving String][97]|
 |199|[Binary Tree Right Side View][199]|
+|473|[Match Sticks to Square][473]|
 |1696|[Jump Game IV][1696]|
 
 [3]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0003.LongestSubstringWithoutRepeatingCharacters.cpp
@@ -20,4 +21,5 @@
 [34]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [199]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
+[473]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [1696]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/1696.JumpGameVI.cpp

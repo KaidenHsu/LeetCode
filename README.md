@@ -15,57 +15,69 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [medium_link]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium
 [hard_link]:https://github.com/Ryanshyu/LeetCode/blob/main/3.Hard
 
-## Skills
+## Tags
 
-### Advanced
-
+|No.|Array|
+|:---:|:---:|
+|1|[Two Sum][1]|
+|15|[3 Sum][15]|
+|18|[4 Sum][18]|
+|26|[Remove Duplicates from Sorted Array][26]|
+|27|[Remove Element][27]|
+|34|[Find First and Last Position of Sorted Array][34]|
+|45|[Jump Game II][45]|
+|473|[Match Sticks to Square][473]|
+|746|[Min Cost Climbing Stairs][746]|
+|1480|[Running Sum of 1D Array][1480]|
+|1696|[Jump Game VI][1696]|
 
 |No.|Backtracking|
 |:---:|:---:|
 |22|[Generate Parantheses][22]|
 |473|[Match Sticks to Square][473]|
 
-|No.|Bitmask|
+|No.|Breadth-First Search|
 |:---:|:---:|
-|473|[Match Sticks to Square][473]|
+|102|[Binary Tree Level Order Traversal][102]|
+|199|[Binary Tree Right Side View][199]|
 
-|No.|Dynamic Programming|
+|No.|Binary Search|
 |:---:|:---:|
-|5|[Longest Palindromic Substring][5]|
-|22|[Generate Parantheses][22]|
-|97|[Interleaving String][97]|
-|473|[Match Sticks to Square][473]|
-|509|[Fibonnaci Number][509]|
-|746|[Min Cost Climbing Stairs][746]|
-|1696|[Jump Game VI][1696]|
-
-|No.|Monotonic Queue|
-|:---:|:---:|
-|1696|[Jump Game VI][1696]|
-
-### Intermediate
-
-|No.|Bit Manipulation|
-|:---:|:---:|
-|473|[Match Sticks to Square][473]|
-|1342|[Number of Steps to Reduce a Number to Zero][1342]|
+|34|[Find First and Last Position of Sorted Array][34]|
+|102|[Binary Tree Level Order Traversal][102]|
 
 |No.|Binary Tree|
 |:---:|:---:|
 |199|[Binary Tree Right Side View][199]|
 |2236|[Root Equals Sum of Children][2236]|
 
-|No.|Binary Search|
+|No.|Bit Manipulation|
 |:---:|:---:|
-|34|[Find First and Last Position of Sorted Array][34]|
+|473|[Match Sticks to Square][473]|
+|1342|[Number of Steps to Reduce a Number to Zero][1342]|
 
-|No.|Breadth-First Search|
+|No.|Bitmask|
 |:---:|:---:|
-|199|[Binary Tree Right Side View][199]|
+|473|[Match Sticks to Square][473]|
 
 |No.|Depth-First Search|
 |:---:|:---:|
 |199|[Binary Tree Right Side View][199]|
+
+|No.|Dynamic Programming|
+|:---:|:---:|
+|5|[Longest Palindromic Substring][5]|
+|22|[Generate Parantheses][22]|
+|45|[Jump Game II][45]|
+|97|[Interleaving String][97]|
+|473|[Match Sticks to Square][473]|
+|509|[Fibonnaci Number][509]|
+|746|[Min Cost Climbing Stairs][746]|
+|1696|[Jump Game VI][1696]|
+
+|No.|Greedy|
+|:---:|:---:|
+|102|[Binary Tree Level Order Traversal][102]|
 
 |No.|Hash Table|
 |:---:|:---:|
@@ -73,6 +85,11 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |3|[Longest Substring Without Repeating Characters][3]|
 |13|[Roman to Integer][13]|
 |383|[Ransom Note][383]|
+
+|No.|Linked List|
+|:---:|:---:|
+|21|[Merge Two Linked List][21]|
+|876|[Middle of The Linked List][876]|
 
 |No.|Math|
 |:---:|:---:|
@@ -84,6 +101,14 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |1473|[Paint House III][1473]|
 |2235|[Add Two Integers][2235]|
 
+|No.|Monotonic Queue|
+|:---:|:---:|
+|1696|[Jump Game VI][1696]|
+
+|No.|Queue|
+|:---:|:---:|
+|1696|[Jump Game VI][1696]|
+
 |No.|Recursion|
 |:---:|:---:|
 |21|[Merge Two Linked List][21]|
@@ -92,35 +117,6 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Sliding Window|
 |:---:|:---:|
 |3|[Longest Substring Without Repeating Characters][3]|
-|1696|[Jump Game VI][1696]|
-
-|No.|Tree|
-|:---:|:---:|
-|2236|[Root Equals Sum of Children][2236]|
-|199|[Binary Tree Right Side View][199]|
-
-### Easy
-
-|No.|Array|
-|:---:|:---:|
-|1|[Two Sum][1]|
-|15|[3 Sum][15]|
-|18|[4 Sum][18]|
-|26|[Remove Duplicates from Sorted Array][26]|
-|27|[Remove Element][27]|
-|34|[Find First and Last Position of Sorted Array][34]|
-|473|[Match Sticks to Square][473]|
-|746|[Min Cost Climbing Stairs][746]|
-|1480|[Running Sum of 1D Array][1480]|
-|1696|[Jump Game VI][1696]|
-
-|No.|Linked List|
-|:---:|:---:|
-|21|[Merge Two Linked List][21]|
-|876|[Middle of The Linked List][876]|
-
-|No.|Queue|
-|:---:|:---:|
 |1696|[Jump Game VI][1696]|
 
 |No.|Simulation|
@@ -148,6 +144,12 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
 
+|No.|Tree|
+|:---:|:---:|
+|102|[Binary Tree Level Order Traversal][102]|
+|199|[Binary Tree Right Side View][199]|
+|2236|[Root Equals Sum of Children][2236]|
+
 |No.|Two Pointers|
 |:---:|:---:|
 |15|[3 Sum][15]|
@@ -171,7 +173,9 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [26]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0026.RemoveDuplicatesFromSortedArray.cpp
 [27]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0027.RemoveElement.cpp
 [34]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
+[45]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0045.JumpGameII.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
+[102]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [199]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
 [383]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp

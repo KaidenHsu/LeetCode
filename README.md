@@ -140,9 +140,14 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |14|[Longest Common Prefix][14]|
 |20|[Valid Parantheses][20]|
 |22|[Generate Parantheses][22]|
+|28|[Implement strStr()][28]|
 |97|[Interleaving String][97]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
+
+|No.|String|
+|:---:|:---:|
+|28|[Implement strStr()][28]|
 
 |No.|Tree|
 |:---:|:---:|
@@ -156,6 +161,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |18|[4 Sum][18]|
 |26|[Remove Duplicates from Sorted Array][26]|
 |27|[Remove Element][27]|
+|28|[Implement strStr()][28]|
 |876|[Middle of The Linked List][876]|
 
 
@@ -172,6 +178,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [22]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0022.GenerateParantheses.cpp
 [26]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0026.RemoveDuplicatesFromSortedArray.cpp
 [27]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0027.RemoveElement.cpp
+[28]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0028.ImplementStrStr().cpp
 [34]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
 [45]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0045.JumpGameII.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp

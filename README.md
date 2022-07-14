@@ -26,6 +26,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |27|[Remove Element][27]|
 |34|[Find First and Last Position of Sorted Array][34]|
 |45|[Jump Game II][45]|
+|46|[Permutations][46]|
 |473|[Match Sticks to Square][473]|
 |746|[Min Cost Climbing Stairs][746]|
 |1480|[Running Sum of 1D Array][1480]|
@@ -34,6 +35,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Backtracking|
 |:---:|:---:|
 |22|[Generate Parantheses][22]|
+|46|[Permutations][46]|
 |473|[Match Sticks to Square][473]|
 
 |No.|Breadth-First Search|
@@ -181,6 +183,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [28]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0028.ImplementStrStr().cpp
 [34]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
 [45]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0045.JumpGameII.cpp
+[46]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0046.Permutations.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [199]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp

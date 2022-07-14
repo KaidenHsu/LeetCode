@@ -9,6 +9,7 @@
 |22|[Generate Parantheses][22]|
 |34|[Find First and Last Position of Sorted Array][34]|
 |45|[Jump Game II][45]|
+|46|[Permutations][46]|
 |97|[Interleaving String][97]|
 |102|[Binary Tree Level Order Traversal][102]|
 |199|[Binary Tree Right Side View][199]|
@@ -22,6 +23,7 @@
 [18]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0018.4Sum.cpp
 [34]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
 [45]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0045.JumpGameII.cpp
+[46]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0046.Permutations.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [199]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp

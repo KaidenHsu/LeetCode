@@ -27,6 +27,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |34|[Find First and Last Position of Sorted Array][34]|
 |45|[Jump Game II][45]|
 |46|[Permutations][46]|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |473|[Match Sticks to Square][473]|
 |746|[Min Cost Climbing Stairs][746]|
 |1480|[Running Sum of 1D Array][1480]|
@@ -50,6 +51,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 |No.|Binary Tree|
 |:---:|:---:|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |199|[Binary Tree Right Side View][199]|
 |2236|[Root Equals Sum of Children][2236]|
 
@@ -77,6 +79,10 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |746|[Min Cost Climbing Stairs][746]|
 |1696|[Jump Game VI][1696]|
 
+|No.|Divide and Conquer|
+|:---:|:---:|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
+
 |No.|Greedy|
 |:---:|:---:|
 |102|[Binary Tree Level Order Traversal][102]|
@@ -86,6 +92,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |1|[Two Sum][1]|
 |3|[Longest Substring Without Repeating Characters][3]|
 |13|[Roman to Integer][13]|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |383|[Ransom Note][383]|
 
 |No.|Linked List|
@@ -154,6 +161,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Tree|
 |:---:|:---:|
 |102|[Binary Tree Level Order Traversal][102]|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |199|[Binary Tree Right Side View][199]|
 |2236|[Root Equals Sum of Children][2236]|
 
@@ -186,6 +194,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [46]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0046.Permutations.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
+[105]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
 [199]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
 [383]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp

@@ -25,6 +25,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |26|[Remove Duplicates from Sorted Array][26]|
 |27|[Remove Element][27]|
 |34|[Find First and Last Position of Sorted Array][34]|
+|35|[Search Insert Position][35]|
 |45|[Jump Game II][45]|
 |46|[Permutations][46]|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
@@ -47,6 +48,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Binary Search|
 |:---:|:---:|
 |34|[Find First and Last Position of Sorted Array][34]|
+|35|[Search Insert Position][35]|
 |102|[Binary Tree Level Order Traversal][102]|
 
 |No.|Binary Tree|
@@ -190,6 +192,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [27]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0027.RemoveElement.cpp
 [28]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0028.ImplementStrStr().cpp
 [34]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
+[35]:https://github.com/Ryanshyu/LeetCode/blob/main/1.Easy/0035.SearchInsertPosition.cpp
 [45]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0045.JumpGameII.cpp
 [46]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0046.Permutations.cpp
 [97]:https://github.com/Ryanshyu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp

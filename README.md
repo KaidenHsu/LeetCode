@@ -28,8 +28,10 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |35|[Search Insert Position][35]|
 |45|[Jump Game II][45]|
 |46|[Permutations][46]|
+|53|[Maximum Subarray][53]|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |473|[Match Sticks to Square][473]|
+|695|[Max Area of Island][695]|
 |746|[Min Cost Climbing Stairs][746]|
 |1480|[Running Sum of 1D Array][1480]|
 |1696|[Jump Game VI][1696]|
@@ -44,6 +46,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |:---:|:---:|
 |102|[Binary Tree Level Order Traversal][102]|
 |199|[Binary Tree Right Side View][199]|
+|695|[Max Area of Island][695]|
 
 |No.|Binary Search|
 |:---:|:---:|
@@ -59,6 +62,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 |No.|Bit Manipulation|
 |:---:|:---:|
+|67|[Add Binary][67]|
 |473|[Match Sticks to Square][473]|
 |1342|[Number of Steps to Reduce a Number to Zero][1342]|
 
@@ -69,12 +73,14 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Depth-First Search|
 |:---:|:---:|
 |199|[Binary Tree Right Side View][199]|
+|695|[Max Area of Island][695]|
 
 |No.|Dynamic Programming|
 |:---:|:---:|
 |5|[Longest Palindromic Substring][5]|
 |22|[Generate Parantheses][22]|
 |45|[Jump Game II][45]|
+|53|[Maximum Subarray][53]|
 |97|[Interleaving String][97]|
 |473|[Match Sticks to Square][473]|
 |509|[Fibonnaci Number][509]|
@@ -83,6 +89,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 |No.|Divide and Conquer|
 |:---:|:---:|
+|53|[Maximum Subarray][53]|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 
 |No.|Greedy|
@@ -106,11 +113,16 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |:---:|:---:|
 |9|[Palindrome Number][9]|
 |13|[Roman to Integer][13]|
+|67|[Add Binary][67]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonnaci Number][509]|
 |1342|[Number of Steps to Reduce a Number to Zero][1342]|
 |1473|[Paint House III][1473]|
 |2235|[Add Two Integers][2235]|
+
+|No.|Matrix|
+|:---:|:---:|
+|695|[Max Area of Island][695]|
 
 |No.|Monotonic Queue|
 |:---:|:---:|
@@ -132,6 +144,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 |No.|Simulation|
 |:---:|:---:|
+|67|[Add Binary][67]|
 |412|[Fizz Buzz][412]|
 
 |No.|Sorting|
@@ -152,6 +165,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |20|[Valid Parantheses][20]|
 |22|[Generate Parantheses][22]|
 |28|[Implement strStr()][28]|
+|67|[Add Binary][67]|
 |97|[Interleaving String][97]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
@@ -176,6 +190,9 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |28|[Implement strStr()][28]|
 |876|[Middle of The Linked List][876]|
 
+|No.|Union Find|
+|:---:|:---:|
+|695|[Max Area of Island][695]|
 
 [1]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0001.TwoSum.cpp
 [3]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0003.LongestSubstringWithoutRepeatingCharacters.cpp
@@ -195,6 +212,8 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [35]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0035.SearchInsertPosition.cpp
 [45]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0045.JumpGameII.cpp
 [46]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0046.Permutations.cpp
+[53]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0053.MaximumSubarray.cpp
+[67]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0067.AddBinary.cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
@@ -203,6 +222,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp
+[695]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0695.MaxAreaOfIsland.cpp
 [746]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp
 [876]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0876.MiddleOfTheLinkedList.cpp
 [1342]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/1342.NumberOfStepsToReduceANumberToZero.cpp

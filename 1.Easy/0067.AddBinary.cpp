@@ -17,7 +17,7 @@ public:
                 j--;
             }
 
-            ans += (carry % 2 + '0');
+            ans += (carry % 2 + '0'); //a = a + "xy" is O(N) while a += "xy" is O(1) (amortized).
             carry = carry / 2;
         }
         

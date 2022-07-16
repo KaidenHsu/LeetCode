@@ -11,6 +11,7 @@
 |27|[Remove Element][27]|
 |28|[Implement strStr()][28]|
 |35|[Search Insert Position][35]|
+|67|[Add Binary][67]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonacci Number][509]|
@@ -32,6 +33,7 @@
 [27]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0026.RemoveElement.cpp
 [28]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0028.ImplementStrStr().cpp
 [35]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0035.SearchInsertPosition.cpp
+[67]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0067.AddBinary.cpp
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp

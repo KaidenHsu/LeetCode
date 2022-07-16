@@ -22,7 +22,7 @@
 |1696|[Jump Game IV][1696]|
 
 [3]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0003.LongestSubstringWithoutRepeatingCharacters.cpp
-[5]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0005.LongestPalindromicSubstirng.cpp
+[5]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0005.LongestPalindromicSubstring.cpp
 [15]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0015.3Sum.cpp
 [22]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0022.GenerateParantheses.cpp
 [18]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0018.4Sum.cpp

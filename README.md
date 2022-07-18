@@ -30,6 +30,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |46|[Permutations][46]|
 |53|[Maximum Subarray][53]|
 |55|[Jump Game][55]|
+|56|[Merge Intervals][56]|
 |66|[Plus One][66]|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |473|[Match Sticks to Square][473]|
@@ -58,6 +59,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 |No.|Binary Tree|
 |:---:|:---:|
+|69|[Sqrt(x)][69]|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |199|[Binary Tree Right Side View][199]|
 |2236|[Root Equals Sum of Children][2236]|
@@ -88,6 +90,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |97|[Interleaving String][97]|
 |473|[Match Sticks to Square][473]|
 |509|[Fibonnaci Number][509]|
+|629|[K Inverse Pairs Array][629]|
 |746|[Min Cost Climbing Stairs][746]|
 |1696|[Jump Game VI][1696]|
 
@@ -120,6 +123,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |13|[Roman to Integer][13]|
 |66|[Plus One][66]|
 |67|[Add Binary][67]|
+|69|[Sqrt(x)][69]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonnaci Number][509]|
 |1342|[Number of Steps to Reduce a Number to Zero][1342]|
@@ -157,6 +161,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |:---:|:---:|
 |15|[3 Sum][15]|
 |18|[4 Sum][18]|
+|56|[Merge Intervals][56]|
 
 |No.|Stack|
 |:---:|:---:|
@@ -221,9 +226,11 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [46]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0046.Permutations.cpp
 [53]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0053.MaximumSubarray.cpp
 [55]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0055.JumpGame.cpp
+[56]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0056.MergeIntervals.cpp
 [58]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0058.LengthOfTheWord.cpp
 [66]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0066.PlusOne.cpp
 [67]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0067.AddBinary.cpp
+[69]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0069.Sqrt(x).cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
@@ -233,6 +240,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp
 [576]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0576.OutOfBoundaryPaths.cpp
+[629]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0629.KInversePairsArray.cpp
 [695]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0695.MaxAreaOfIsland.cpp
 [746]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp
 [876]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0876.MiddleOfTheLinkedList.cpp

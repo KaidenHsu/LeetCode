@@ -39,7 +39,9 @@
 [58]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0058.LengthOfTheWord.cpp
 [66]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0066.PlusOne.cpp
 [67]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0067.AddBinary.cpp
+[70]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0070ClimbingStairs.cpp
 [69]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0069.Sqrt(x).cpp
+[118]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0118.Pascal'sTriangle.cpp
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp

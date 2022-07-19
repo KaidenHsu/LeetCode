@@ -33,6 +33,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |56|[Merge Intervals][56]|
 |66|[Plus One][66]|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
+|118|[Pascal's Triangle][118]|
 |473|[Match Sticks to Square][473]|
 |695|[Max Area of Island][695]|
 |746|[Min Cost Climbing Stairs][746]|
@@ -43,6 +44,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |:---:|:---:|
 |22|[Generate Parantheses][22]|
 |46|[Permutations][46]|
+|77|[Combinations][77]|
 |473|[Match Sticks to Square][473]|
 
 |No.|Breadth-First Search|
@@ -86,10 +88,12 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |45|[Jump Game II][45]|
 |53|[Maximum Subarray][53]|
 |55|[Jump Game][55]|
-|576|[Out of Boundary Paths][576]|
+|70|[Climbing Stairs][70]|
 |97|[Interleaving String][97]|
+|118|[Pascal's Triangle][118]|
 |473|[Match Sticks to Square][473]|
 |509|[Fibonnaci Number][509]|
+|576|[Out of Boundary Paths][576]|
 |629|[K Inverse Pairs Array][629]|
 |746|[Min Cost Climbing Stairs][746]|
 |1696|[Jump Game VI][1696]|
@@ -124,6 +128,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |66|[Plus One][66]|
 |67|[Add Binary][67]|
 |69|[Sqrt(x)][69]|
+|70|[Climbing Stairs][70]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonnaci Number][509]|
 |1342|[Number of Steps to Reduce a Number to Zero][1342]|
@@ -133,6 +138,10 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Matrix|
 |:---:|:---:|
 |695|[Max Area of Island][695]|
+
+|No.|Memoization|
+|:---:|:---:|
+|70|[Climbing Stairs][70]|
 
 |No.|Monotonic Queue|
 |:---:|:---:|
@@ -232,6 +241,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [67]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0067.AddBinary.cpp
 [69]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0069.Sqrt(x).cpp
 [70]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0070ClimbingStairs.cpp
+[77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp

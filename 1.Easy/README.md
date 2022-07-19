@@ -15,6 +15,8 @@
 |66|[Plus One][66]|
 |67|[Add Binary][67]|
 |69|[Sqrt(x)][69]|
+|70|[Climbing Stairs][70]|
+|118|[Pascal's Triangle][118]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonacci Number][509]|

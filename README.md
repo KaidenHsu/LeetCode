@@ -35,8 +35,10 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |118|[Pascal's Triangle][118]|
 |473|[Match Sticks to Square][473]|
+|560|[Subarray Sum Equals K][560]|
 |695|[Max Area of Island][695]|
 |746|[Min Cost Climbing Stairs][746]|
+|1074|[Number of Submatrices that Sum to Target][1074]|
 |1480|[Running Sum of 1D Array][1480]|
 |1696|[Jump Game VI][1696]|
 
@@ -115,10 +117,13 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |13|[Roman to Integer][13]|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |383|[Ransom Note][383]|
+|560|[Subarray Sum Equals K][560]|
+|1074|[Number of Submatrices that Sum to Target][1074]|
 
 |No.|Linked List|
 |:---:|:---:|
 |21|[Merge Two Linked List][21]|
+|83|[Remove Duplicates from Sorted List][83]|
 |876|[Middle of The Linked List][876]|
 
 |No.|Math|
@@ -138,6 +143,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Matrix|
 |:---:|:---:|
 |695|[Max Area of Island][695]|
+|1074|[Number of Submatrices that Sum to Target][1074]|
 
 |No.|Memoization|
 |:---:|:---:|
@@ -146,6 +152,11 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Monotonic Queue|
 |:---:|:---:|
 |1696|[Jump Game VI][1696]|
+
+|No.|Prefix Sum|
+|:---:|:---:|
+|560|[Subarray Sum Equals K][560]|
+|1074|[Number of Submatrices that Sum to Target][1074]|
 
 |No.|Queue|
 |:---:|:---:|
@@ -242,6 +253,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [69]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0069.Sqrt(x).cpp
 [70]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0070ClimbingStairs.cpp
 [77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
+[83]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0083.RemoveDuplicatesFromSortedArray.cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
@@ -251,11 +263,13 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp
+[560]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0560.SubarraySumEqualsK.cpp
 [576]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0576.OutOfBoundaryPaths.cpp
 [629]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0629.KInversePairsArray.cpp
 [695]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0695.MaxAreaOfIsland.cpp
 [746]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp
 [876]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0876.MiddleOfTheLinkedList.cpp
+[1074]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1074.NumberOfSubmatricesThatSumToTarget.cpp
 [1342]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/1342.NumberOfStepsToReduceANumberToZero.cpp
 [1473]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1473.PaintHouseIII.cpp
 [1480]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/1480.RunningSumOf1DArray.cpp

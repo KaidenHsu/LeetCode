@@ -5,7 +5,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 
 ## Difficulty 🍵
 
-|level | link|
+|Level | Link|
 |:---:|:----:|
 |Easy|[⭐️][easy_link]| 
 |Medium|[⭐️⭐️][medium_link]|

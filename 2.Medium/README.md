@@ -1,5 +1,7 @@
 ## Medium
 
+![Medium](https://res.cloudinary.com/highereducation/image/upload/v1533591754/TheBestColleges.org/study-notebooks.jpg "Medium")
+
 |No. | Question|
 |:---:|:----:|
 |3|[Longest Substring without Repeating Characters][3]|

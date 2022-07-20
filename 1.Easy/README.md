@@ -1,4 +1,7 @@
 ## Easy
+
+![Easy](https://codecondo.com/wp-content/uploads/2015/07/AngularJS-easy-work.png "Easy")
+
 |No.|Question|
 |:---:|:----:|
 |1|[Two Sum][1]|

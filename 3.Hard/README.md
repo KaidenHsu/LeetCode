@@ -1,6 +1,6 @@
 ## Hard
 
-![Hard](https://i.ytimg.com/vi/xi_i0_1ZS3Q/maxresdefault.jpg "Hard")
+![Hard](https://s3.amazonaws.com/www.mathnasium.com/upload/733/images/iStock_000038546718_Small.jpg "Hard")
 
 |No. | Question|
 |:---:|:----:|

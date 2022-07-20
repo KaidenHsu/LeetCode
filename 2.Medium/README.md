@@ -1,6 +1,6 @@
 ## Medium
 
-![Medium](https://res.cloudinary.com/highereducation/image/upload/v1533591754/TheBestColleges.org/study-notebooks.jpg "Medium")
+![Medium](https://www.careerizma.com/wp-content/uploads/problem-solving-techniques.jpg "Medium")
 
 |No. | Question|
 |:---:|:----:|

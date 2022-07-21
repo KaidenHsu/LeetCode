@@ -38,9 +38,11 @@
 [55]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0055.JumpGame.cpp
 [56]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0056.MergeIntervals.cpp
 [77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
+[86]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0086.PartitionList.cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
+[142]:https://leetcode.com/problems/linked-list-cycle-ii/
 [199]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [560]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0560.SubarraySumEqualsK.cpp

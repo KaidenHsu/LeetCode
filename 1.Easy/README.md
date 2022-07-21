@@ -49,6 +49,7 @@
 [83]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0083.RemoveDuplicatesFromSortedArray.cpp
 [69]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0069.Sqrt(x).cpp
 [118]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0118.Pascal'sTriangle.cpp
+[206]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0206.ReverseLinkedList.cpp
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp

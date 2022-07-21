@@ -117,6 +117,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |3|[Longest Substring Without Repeating Characters][3]|
 |13|[Roman to Integer][13]|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
+|142|[Linked List Cycle II][142]|
 |383|[Ransom Note][383]|
 |560|[Subarray Sum Equals K][560]|
 |1074|[Number of Submatrices that Sum to Target][1074]|
@@ -125,6 +126,9 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |:---:|:---:|
 |21|[Merge Two Linked List][21]|
 |83|[Remove Duplicates from Sorted List][83]|
+|86|[Partition List][86]|
+|142|[Linked List Cycle II][142]|
+|206|[Reverse Linked List][206]|
 |876|[Middle of The Linked List][876]|
 
 |No.|Math|
@@ -166,6 +170,7 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |No.|Recursion|
 |:---:|:---:|
 |21|[Merge Two Linked List][21]|
+|206|[Reverse Linked List][206]|
 |509|[Fibonacci Number][509]|
 
 |No.|Sliding Window|
@@ -221,6 +226,8 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 |26|[Remove Duplicates from Sorted Array][26]|
 |27|[Remove Element][27]|
 |28|[Implement strStr()][28]|
+|86|[Partition List][86]|
+|142|[Linked List Cycle II][142]|
 |876|[Middle of The Linked List][876]|
 
 |No.|Union Find|
@@ -255,11 +262,14 @@ Feel free to contact me or make a pull request if you find any mistakes😀.
 [70]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0070ClimbingStairs.cpp
 [77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
 [83]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0083.RemoveDuplicatesFromSortedArray.cpp
+[86]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0086.PartitionList.cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
 [118]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0118.Pascal'sTriangle.cpp
+[142]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0142.LinkedListCycleII.cpp
 [199]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
+[206]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0206.ReverseLinkedList.cpp
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp

@@ -21,6 +21,7 @@
 |70|[Climbing Stairs][70]|
 |83|[Remove Duplicates from Sorted List][83]|
 |118|[Pascal's Triangle][118]|
+|206|[Reverse Linked List][206]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonacci Number][509]|

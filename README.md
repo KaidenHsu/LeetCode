@@ -27,6 +27,7 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 |27|[Remove Element][27]|
 |34|[Find First and Last Position of Sorted Array][34]|
 |35|[Search Insert Position][35]|
+|42|[Trapping Rain Water][42]|
 |45|[Jump Game II][45]|
 |46|[Permutations][46]|
 |53|[Maximum Subarray][53]|
@@ -84,10 +85,15 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 |199|[Binary Tree Right Side View][199]|
 |695|[Max Area of Island][695]|
 
+|No.|Design|
+|:---:|:---:|
+|155|[Min Stack][155]|
+
 |No.|Dynamic Programming|
 |:---:|:---:|
 |5|[Longest Palindromic Substring][5]|
 |22|[Generate Parantheses][22]|
+|42|[Trapping Rain Water][42]|
 |45|[Jump Game II][45]|
 |53|[Maximum Subarray][53]|
 |55|[Jump Game][55]|
@@ -120,6 +126,7 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 |142|[Linked List Cycle II][142]|
 |383|[Ransom Note][383]|
 |560|[Subarray Sum Equals K][560]|
+|792|[Number of Matching Subsequences][792]|
 |1074|[Number of Submatrices that Sum to Target][1074]|
 
 |No.|Linked List|
@@ -127,6 +134,7 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 |21|[Merge Two Linked List][21]|
 |83|[Remove Duplicates from Sorted List][83]|
 |86|[Partition List][86]|
+|92|[Reverse Linked List][92]|
 |142|[Linked List Cycle II][142]|
 |206|[Reverse Linked List][206]|
 |876|[Middle of The Linked List][876]|
@@ -158,6 +166,10 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 |:---:|:---:|
 |1696|[Jump Game VI][1696]|
 
+|No.|Monotonic Stack|
+|:---:|:---:|
+|42|[Trapping Rain Water][42]|
+
 |No.|Prefix Sum|
 |:---:|:---:|
 |560|[Subarray Sum Equals K][560]|
@@ -188,10 +200,13 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 |15|[3 Sum][15]|
 |18|[4 Sum][18]|
 |56|[Merge Intervals][56]|
+|792|[Number of Matching Subsequences][792]|
 
 |No.|Stack|
 |:---:|:---:|
 |20|[Valid Parantheses][20]|
+|42|[Trapping Rain Water][42]|
+|155|[Min Stack][155]|
 
 |No.|String|
 |:---:|:---:|
@@ -206,6 +221,7 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 |97|[Interleaving String][97]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
+|792|[Number of Matching Subsequences][792]|
 
 |No.|String|
 |:---:|:---:|
@@ -219,6 +235,10 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 |199|[Binary Tree Right Side View][199]|
 |2236|[Root Equals Sum of Children][2236]|
 
+|No.|Trie|
+|:---:|:---:|
+|792|[Number of Matching Subsequences][792]|
+
 |No.|Two Pointers|
 |:---:|:---:|
 |15|[3 Sum][15]|
@@ -226,6 +246,7 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 |26|[Remove Duplicates from Sorted Array][26]|
 |27|[Remove Element][27]|
 |28|[Implement strStr()][28]|
+|42|[Trapping Rain Water][42]|
 |86|[Partition List][86]|
 |142|[Linked List Cycle II][142]|
 |876|[Middle of The Linked List][876]|
@@ -250,6 +271,7 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 [28]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0028.ImplementStrStr().cpp
 [34]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
 [35]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0035.SearchInsertPosition.cpp
+[42]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0042.TrappingRainWater.cpp
 [45]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0045.JumpGameII.cpp
 [46]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0046.Permutations.cpp
 [53]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0053.MaximumSubarray.cpp
@@ -263,11 +285,13 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 [77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
 [83]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0083.RemoveDuplicatesFromSortedArray.cpp
 [86]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0086.PartitionList.cpp
+[92]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0092.ReverseLinkedListII.cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
 [118]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0118.Pascal'sTriangle.cpp
 [142]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0142.LinkedListCycleII.cpp
+[155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp
 [199]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
 [206]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0206.ReverseLinkedList.cpp
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
@@ -279,6 +303,7 @@ Feel free to contact me or make a pull request if you find any mistakes. 🤡
 [629]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0629.KInversePairsArray.cpp
 [695]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0695.MaxAreaOfIsland.cpp
 [746]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp
+[792]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0792.NumberOfMatchingSubsequences.cpp
 [876]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0876.MiddleOfTheLinkedList.cpp
 [1074]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1074.NumberOfSubmatricesThatSumToTarget.cpp
 [1342]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/1342.NumberOfStepsToReduceANumberToZero.cpp

@@ -17,15 +17,18 @@
 |56|[Merge Intervals][56]|
 |77|[Combinations][77]|
 |86|[Partition List][86]|
+|92|[Reverse Linked List][92]|
 |97|[Interleaving String][97]|
 |102|[Binary Tree Level Order Traversal][102]|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |142|[Linked List Cycle II][142]|
+|155|[Min Stack][155]|
 |199|[Binary Tree Right Side View][199]|
 |473|[Match Sticks to Square][473]|
 |560|[Subarray Sum Equals K][560]|
 |576|[Out of Boundary Paths][576]|
 |695|[Max Area of Island][695]|
+|792|[Number of Matching Subsequences][792]|
 |1696|[Jump Game IV][1696]|
 
 [3]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0003.LongestSubstringWithoutRepeatingCharacters.cpp
@@ -41,13 +44,16 @@
 [56]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0056.MergeIntervals.cpp
 [77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
 [86]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0086.PartitionList.cpp
+[92]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0092.ReverseLinkedListII.cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
 [142]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0142.LinkedListCycleII.cpp
+[155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp
 [199]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [560]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0560.SubarraySumEqualsK.cpp
 [576]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0576.OutOfBoundaryPaths.cpp
 [695]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0695.MaxAreaOfIsland.cpp
+[792]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0792.NumberOfMatchingSubsequences.cpp
 [1696]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/1696.JumpGameVI.cpp

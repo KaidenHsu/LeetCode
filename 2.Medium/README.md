@@ -15,6 +15,7 @@
 |53|[Maximum Subarray][53]|
 |55|[Jump Game][55]|
 |56|[Merge Intervals][56]|
+|64|[Minimum Sum Path][64]|
 |77|[Combinations][77]|
 |86|[Partition List][86]|
 |92|[Reverse Linked List][92]|

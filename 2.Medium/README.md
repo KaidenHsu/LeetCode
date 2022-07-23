@@ -20,10 +20,10 @@
 |92|[Reverse Linked List][92]|
 |97|[Interleaving String][97]|
 |102|[Binary Tree Level Order Traversal][102]|
-|105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |142|[Linked List Cycle II][142]|
 |155|[Min Stack][155]|
 |199|[Binary Tree Right Side View][199]|
+|236|[Lowest Common Ancestor of a Binary Tree][236]|
 |473|[Match Sticks to Square][473]|
 |560|[Subarray Sum Equals K][560]|
 |576|[Out of Boundary Paths][576]|
@@ -42,6 +42,7 @@
 [53]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0053.MaximumSubarray.cpp
 [55]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0055.JumpGame.cpp
 [56]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0056.MergeIntervals.cpp
+[64]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0064.MinimumPathSum.cpp
 [77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
 [86]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0086.PartitionList.cpp
 [92]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0092.ReverseLinkedListII.cpp
@@ -51,6 +52,7 @@
 [142]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0142.LinkedListCycleII.cpp
 [155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp
 [199]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
+[236]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0236.LowestCommonAncestorOfABinaryTree.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [560]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0560.SubarraySumEqualsK.cpp
 [576]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0576.OutOfBoundaryPaths.cpp

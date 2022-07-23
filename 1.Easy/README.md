@@ -40,7 +40,7 @@
 [20]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0020.ValidParantheses.cpp
 [21]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0021.MergeTwoSortedList.cpp
 [26]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0026.RemoveDuplicatesFromSortedArray.cpp
-[27]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0026.RemoveElement.cpp
+[27]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0027.RemoveElement.cpp
 [28]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0028.ImplementStrStr().cpp
 [35]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0035.SearchInsertPosition.cpp
 [58]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0058.LengthOfTheWord.cpp

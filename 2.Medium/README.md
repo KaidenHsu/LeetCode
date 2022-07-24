@@ -25,6 +25,7 @@
 |155|[Min Stack][155]|
 |199|[Binary Tree Right Side View][199]|
 |236|[Lowest Common Ancestor of a Binary Tree][236]|
+|240|[Search a 2D Matrix II][240]|
 |473|[Match Sticks to Square][473]|
 |560|[Subarray Sum Equals K][560]|
 |576|[Out of Boundary Paths][576]|
@@ -54,6 +55,7 @@
 [155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp
 [199]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
 [236]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0236.LowestCommonAncestorOfABinaryTree.cpp
+[240]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0240.SearchA2DMatrixII.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [560]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0560.SubarraySumEqualsK.cpp
 [576]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0576.OutOfBoundaryPaths.cpp

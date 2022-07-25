@@ -18,4 +18,4 @@
 [315]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0315.CountOfSmallerNumbersAfterSelf.cpp
 [629]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0629.KInversePairsArray.cpp
 [1074]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1074.NumberOfSubmatricesThatSumToTarget.cpp
-[1473]:https://github.com/Ryanshyu/LeetCode/blob/main/3.Hard/1473.PaintHouseIII.cpp
+[1473]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1473.PaintHouseIII.cpp

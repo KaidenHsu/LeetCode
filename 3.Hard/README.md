@@ -5,6 +5,7 @@
 |No. | Question|
 |:---:|:----:|
 |42|[Trapping Rain Water][42]|
+|51|[N Queens][51]|
 |174|[Dungeon Game][174]|
 |239|[Sliding Window Maximum][239]|
 |315|[Count of Smaller Numbers After Self][315]|
@@ -13,6 +14,7 @@
 |1473|[Paint House III][1473]|
 
 [42]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0042.TrappingRainWater.cpp
+[51]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0051.NQueens.cpp
 [174]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0174.DungeonGame.cpp
 [239]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0239.SlidingWindowMaximum.cpp
 [315]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0315.CountOfSmallerNumbersAfterSelf.cpp

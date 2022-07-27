@@ -44,14 +44,14 @@
 [15]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0015.3Sum.cpp
 [22]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0022.GenerateParantheses.cpp
 [18]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0018.4Sum.cpp
-[33]:
+[33]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0033.SearchInRotatedSortedArray.cpp
 [34]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
 [45]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0045.JumpGameII.cpp
 [46]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0046.Permutations.cpp
 [53]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0053.MaximumSubarray.cpp
 [55]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0055.JumpGame.cpp
 [56]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0056.MergeIntervals.cpp
-[62]:
+[62]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0062.UniquePaths.cpp
 [64]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0064.MinimumPathSum.cpp
 [77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
 [86]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0086.PartitionList.cpp
@@ -59,7 +59,7 @@
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
-[114]:
+[114]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0114.FlattenBinaryTreeToLinkedList.cpp
 [122]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0122.BestTimeToBuyAndSellStockII.cpp
 [142]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0142.LinkedListCycleII.cpp
 [155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp

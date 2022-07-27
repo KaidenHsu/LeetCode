@@ -16,7 +16,7 @@
 
 [42]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0042.TrappingRainWater.cpp
 [51]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0051.NQueens.cpp
-[72]:
+[72]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0072.EditDistance.cpp
 [174]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0174.DungeonGame.cpp
 [239]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0239.SlidingWindowMaximum.cpp
 [315]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0315.CountOfSmallerNumbersAfterSelf.cpp

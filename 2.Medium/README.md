@@ -9,18 +9,21 @@
 |15|[3 Sum][15]|
 |18|[4 Sum][18]|
 |22|[Generate Parantheses][22]|
+|33|[Search in Rotated Sorted Array][33]|
 |34|[Find First and Last Position of Sorted Array][34]|
 |45|[Jump Game II][45]|
 |46|[Permutations][46]|
 |53|[Maximum Subarray][53]|
 |55|[Jump Game][55]|
 |56|[Merge Intervals][56]|
+|62|[Unique Paths][62]|
 |64|[Minimum Sum Path][64]|
 |77|[Combinations][77]|
 |86|[Partition List][86]|
 |92|[Reverse Linked List][92]|
 |97|[Interleaving String][97]|
 |102|[Binary Tree Level Order Traversal][102]|
+|114|[Flatten Binary Tree to Linked List][114]|
 |122|[Best Time to Buy and Sell Stock II][122]|
 |142|[Linked List Cycle II][142]|
 |155|[Min Stack][155]|
@@ -41,12 +44,14 @@
 [15]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0015.3Sum.cpp
 [22]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0022.GenerateParantheses.cpp
 [18]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0018.4Sum.cpp
+[33]:
 [34]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0034.FindTheFirstAndLastPositionOfElementInSortedArray.cpp
 [45]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0045.JumpGameII.cpp
 [46]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0046.Permutations.cpp
 [53]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0053.MaximumSubarray.cpp
 [55]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0055.JumpGame.cpp
 [56]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0056.MergeIntervals.cpp
+[62]:
 [64]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0064.MinimumPathSum.cpp
 [77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
 [86]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0086.PartitionList.cpp
@@ -54,6 +59,7 @@
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
+[114]:
 [122]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0122.BestTimeToBuyAndSellStockII.cpp
 [142]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0142.LinkedListCycleII.cpp
 [155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp

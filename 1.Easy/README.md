@@ -10,6 +10,7 @@
 |14|[Longest Common Prefix][14]|
 |20|[Valid Parantheses][20]|
 |21|[Merge Two Sorted List][21]|
+|25|[Reverse Nodes in k-Group][25]|
 |26|[Remove Duplicates from Sorted Array][26]|
 |27|[Remove Element][27]|
 |28|[Implement strStr()][28]|
@@ -19,9 +20,12 @@
 |67|[Add Binary][67]|
 |69|[Sqrt(x)][69]|
 |70|[Climbing Stairs][70]|
+|75|[Sort Colors][75]|
 |83|[Remove Duplicates from Sorted List][83]|
 |118|[Pascal's Triangle][118]|
+|131|[Palindrome Partitioning][131]|
 |206|[Reverse Linked List][206]|
+|242|[Valid Anagram][242]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonacci Number][509]|
@@ -39,6 +43,7 @@
 [14]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0014.LongestCommonPrefix.cpp
 [20]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0020.ValidParantheses.cpp
 [21]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0021.MergeTwoSortedList.cpp
+[25]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0025.ReverseNodesInKGroup.cpp
 [26]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0026.RemoveDuplicatesFromSortedArray.cpp
 [27]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0027.RemoveElement.cpp
 [28]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0028.ImplementStrStr().cpp
@@ -47,10 +52,13 @@
 [66]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0066.PlusOne.cpp
 [67]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0067.AddBinary.cpp
 [70]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0070ClimbingStairs.cpp
+[75]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0075.SortColors.cpp
 [83]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0083.RemoveDuplicatesFromSortedArray.cpp
 [69]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0069.Sqrt(x).cpp
 [118]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0118.Pascal'sTriangle.cpp
+[131]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0131.PalindromePartitioning.cpp
 [206]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0206.ReverseLinkedList.cpp
+[242]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0242.ValidAnagram.cpp
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp

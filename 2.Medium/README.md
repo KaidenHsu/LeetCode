@@ -62,7 +62,7 @@
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
 [114]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0114.FlattenBinaryTreeToLinkedList.cpp
 [122]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0122.BestTimeToBuyAndSellStockII.cpp
-[138]:
+[138]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0138.CopyListWithRandomPointer.cpp
 [142]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0142.LinkedListCycleII.cpp
 [155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp
 [198]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0198.HouseRobber.cpp

@@ -25,6 +25,7 @@
 |102|[Binary Tree Level Order Traversal][102]|
 |114|[Flatten Binary Tree to Linked List][114]|
 |122|[Best Time to Buy and Sell Stock II][122]|
+|138|[Copy List With Random Pointer][138]|
 |142|[Linked List Cycle II][142]|
 |155|[Min Stack][155]|
 |198|[House Robber][198]|
@@ -61,6 +62,7 @@
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
 [114]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0114.FlattenBinaryTreeToLinkedList.cpp
 [122]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0122.BestTimeToBuyAndSellStockII.cpp
+[138]:
 [142]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0142.LinkedListCycleII.cpp
 [155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp
 [198]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0198.HouseRobber.cpp

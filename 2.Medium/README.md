@@ -39,6 +39,7 @@
 |695|[Max Area of Island][695]|
 |792|[Number of Matching Subsequences][792]|
 |852|[Peak Index in a Mountain Array][852]|
+|890|[Find and Replace Pattern][890]|
 |1696|[Jump Game IV][1696]|
 
 [3]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0003.LongestSubstringWithoutRepeatingCharacters.cpp
@@ -77,4 +78,5 @@
 [695]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0695.MaxAreaOfIsland.cpp
 [792]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0792.NumberOfMatchingSubsequences.cpp
 [852]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0852.PeakIndexInAMountain.cpp
+[890]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0890.FindAndReplacePattern.cpp
 [1696]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/1696.JumpGameVI.cpp

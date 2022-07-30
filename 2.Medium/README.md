@@ -30,9 +30,11 @@
 |155|[Min Stack][155]|
 |198|[House Robber][198]|
 |199|[Binary Tree Right Side View][199]|
+|222|[Count Complete TreeNodes][222]|
 |236|[Lowest Common Ancestor of a Binary Tree][236]|
 |240|[Search a 2D Matrix II][240]|
 |337|[House Robber III][337]|
+|402|[Remove K Digits][402]|
 |473|[Match Sticks to Square][473]|
 |560|[Subarray Sum Equals K][560]|
 |576|[Out of Boundary Paths][576]|
@@ -69,9 +71,11 @@
 [155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp
 [198]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0198.HouseRobber.cpp
 [199]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
+[222]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0222.CountCompleteTreeNodes.cpp
 [236]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0236.LowestCommonAncestorOfABinaryTree.cpp
 [240]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0240.SearchA2DMatrixII.cpp
 [337]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0337.HouseRobberIII.cpp
+[402]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0402.RemoveKDigits.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [560]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0560.SubarraySumEqualsK.cpp
 [576]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0576.OutOfBoundaryPaths.cpp

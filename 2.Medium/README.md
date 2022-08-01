@@ -39,6 +39,7 @@
 |560|[Subarray Sum Equals K][560]|
 |576|[Out of Boundary Paths][576]|
 |695|[Max Area of Island][695]|
+|714|[Best Time to Buy and Sell Stock with Transaction Fee][714]|
 |792|[Number of Matching Subsequences][792]|
 |852|[Peak Index in a Mountain Array][852]|
 |890|[Find and Replace Pattern][890]|
@@ -80,6 +81,7 @@
 [560]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0560.SubarraySumEqualsK.cpp
 [576]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0576.OutOfBoundaryPaths.cpp
 [695]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0695.MaxAreaOfIsland.cpp
+[714]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0714.BestTimeToBuyAndSellStockWithTransactionFee.cpp
 [792]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0792.NumberOfMatchingSubsequences.cpp
 [852]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0852.PeakIndexInAMountain.cpp
 [890]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0890.FindAndReplacePattern.cpp

@@ -24,6 +24,7 @@
 |83|[Remove Duplicates from Sorted List][83]|
 |118|[Pascal's Triangle][118]|
 |131|[Palindrome Partitioning][131]|
+|144|[Binary Tree Preorder Traversal][144]|
 |206|[Reverse Linked List][206]|
 |242|[Valid Anagram][242]|
 |383|[Ransom Note][383]|
@@ -57,6 +58,7 @@
 [69]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0069.Sqrt(x).cpp
 [118]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0118.Pascal'sTriangle.cpp
 [131]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0131.PalindromePartitioning.cpp
+[144]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0144.BinaryTreePreOrderTraversal.cpp
 [206]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0206.ReverseLinkedList.cpp
 [242]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0242.ValidAnagram.cpp
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp

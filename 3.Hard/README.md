@@ -8,6 +8,7 @@
 |42|[Trapping Rain Water][42]|
 |51|[N Queens][51]|
 |72|[Edit Distance][72]|
+|123|[Best Time to Buy and Sell Stock][123]|
 |174|[Dungeon Game][174]|
 |188|[Best Time to Buy and Sell Stock][188]|
 |224|[Basic Calculator][224]|
@@ -22,6 +23,7 @@
 [42]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0042.TrappingRainWater.cpp
 [51]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0051.NQueens.cpp
 [72]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0072.EditDistance.cpp
+[123]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0123.BestTimeToBuyAndSellStock.cpp
 [174]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0174.DungeonGame.cpp
 [188]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0188.BestTimeToBuyAndSellStockIV.cpp
 [224]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0224.BasicCalculator.cpp

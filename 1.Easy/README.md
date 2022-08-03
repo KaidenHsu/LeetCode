@@ -22,6 +22,7 @@
 |70|[Climbing Stairs][70]|
 |75|[Sort Colors][75]|
 |83|[Remove Duplicates from Sorted List][83]|
+|88|[Merge Sorted Array][88]|
 |118|[Pascal's Triangle][118]|
 |131|[Palindrome Partitioning][131]|
 |144|[Binary Tree Preorder Traversal][144]|
@@ -52,10 +53,11 @@
 [58]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0058.LengthOfTheWord.cpp
 [66]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0066.PlusOne.cpp
 [67]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0067.AddBinary.cpp
+[69]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0069.Sqrt(x).cpp
 [70]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0070ClimbingStairs.cpp
 [75]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0075.SortColors.cpp
 [83]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0083.RemoveDuplicatesFromSortedArray.cpp
-[69]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0069.Sqrt(x).cpp
+[88]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0088.MergeSortedArray.cpp
 [118]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0118.Pascal'sTriangle.cpp
 [131]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0131.PalindromePartitioning.cpp
 [144]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0144.BinaryTreePreOrderTraversal.cpp

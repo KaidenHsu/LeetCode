@@ -87,6 +87,7 @@
 [576]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0576.OutOfBoundaryPaths.cpp
 [695]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0695.MaxAreaOfIsland.cpp
 [714]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0714.BestTimeToBuyAndSellStockWithTransactionFee.cpp
+[786]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0786.KthSmallestPrimeFraction.cpp
 [792]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0792.NumberOfMatchingSubsequences.cpp
 [852]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0852.PeakIndexInAMountain.cpp
 [890]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0890.FindAndReplacePattern.cpp

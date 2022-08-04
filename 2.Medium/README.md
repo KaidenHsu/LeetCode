@@ -42,6 +42,7 @@
 |576|[Out of Boundary Paths][576]|
 |695|[Max Area of Island][695]|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee][714]|
+|786|[Kth Smallest Prime Fraction][786]|
 |792|[Number of Matching Subsequences][792]|
 |852|[Peak Index in a Mountain Array][852]|
 |890|[Find and Replace Pattern][890]|

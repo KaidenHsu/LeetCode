@@ -9,6 +9,7 @@
 |51|[N Queens][51]|
 |72|[Edit Distance][72]|
 |123|[Best Time to Buy and Sell Stock][123]|
+|124|[Binary Tree Maximum Path Sum][124]|
 |174|[Dungeon Game][174]|
 |188|[Best Time to Buy and Sell Stock][188]|
 |224|[Basic Calculator][224]|

@@ -25,6 +25,7 @@
 [51]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0051.NQueens.cpp
 [72]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0072.EditDistance.cpp
 [123]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0123.BestTimeToBuyAndSellStock.cpp
+[124]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0124.BinaryTreeMaximumPathSum.cpp
 [174]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0174.DungeonGame.cpp
 [188]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0188.BestTimeToBuyAndSellStockIV.cpp
 [224]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0224.BasicCalculator.cpp

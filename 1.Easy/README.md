@@ -31,6 +31,7 @@
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonacci Number][509]|
+|700|[Search in a Binary Tree][700]|
 |746|[Min Cost Climbing Stairs][746]|
 |876|[Middle of The Linked List][876]|
 |1342|[Number of Steps to Reduce to A Number to Zero][1342]|
@@ -66,6 +67,7 @@
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp
+[700]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0700.SearchInABinaryTree.cpp
 [746]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp
 [876]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0876.MiddleOfTheLinkedList.cpp
 [1342]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/1342.NumberOfStepsToReduceANumberToZero.cpp

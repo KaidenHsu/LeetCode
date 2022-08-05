@@ -24,6 +24,7 @@
 |83|[Remove Duplicates from Sorted List][83]|
 |88|[Merge Sorted Array][88]|
 |118|[Pascal's Triangle][118]|
+|125|[Valid Palindrome][125]|
 |131|[Palindrome Partitioning][131]|
 |144|[Binary Tree Preorder Traversal][144]|
 |206|[Reverse Linked List][206]|
@@ -60,6 +61,7 @@
 [83]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0083.RemoveDuplicatesFromSortedArray.cpp
 [88]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0088.MergeSortedArray.cpp
 [118]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0118.Pascal'sTriangle.cpp
+[125]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0125.ValidPalindrome.cpp
 [131]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0131.PalindromePartitioning.cpp
 [144]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0144.BinaryTreePreOrderTraversal.cpp
 [206]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0206.ReverseLinkedList.cpp

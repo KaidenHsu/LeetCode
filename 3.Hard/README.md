@@ -5,6 +5,7 @@
 |No. | Question|
 |:---:|:----:|
 |4|[Median of Two Sorted Arrays][4]|
+|23|[Merge K Sorted List][23]|
 |42|[Trapping Rain Water][42]|
 |51|[N Queens][51]|
 |72|[Edit Distance][72]|
@@ -21,6 +22,7 @@
 |1473|[Paint House III][1473]|
 
 [4]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0004.MedianOfTwoSortedArrays.cpp
+[23]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0023.MergeKSortedLists.cpp
 [42]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0042.TrappingRainWater.cpp
 [51]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0051.NQueens.cpp
 [72]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0072.EditDistance.cpp

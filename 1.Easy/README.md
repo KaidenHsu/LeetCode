@@ -33,6 +33,7 @@
 |412|[Fizz Buzz][412]|
 |509|[Fibonacci Number][509]|
 |700|[Search in a Binary Tree][700]|
+|704|[Binary Search][704]|
 |746|[Min Cost Climbing Stairs][746]|
 |876|[Middle of The Linked List][876]|
 |1342|[Number of Steps to Reduce to A Number to Zero][1342]|
@@ -70,6 +71,7 @@
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp
 [700]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0700.SearchInABinaryTree.cpp
+[704]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0704.BinarySearch.cpp
 [746]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp
 [876]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0876.MiddleOfTheLinkedList.cpp
 [1342]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/1342.NumberOfStepsToReduceANumberToZero.cpp

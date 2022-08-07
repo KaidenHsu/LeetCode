@@ -36,6 +36,7 @@
 |236|[Lowest Common Ancestor of a Binary Tree][236]|
 |240|[Search a 2D Matrix II][240]|
 |304|[Range Sum Query 2D - Immutable][304]|
+|307|[Range Sum Query Mutable][307]|
 |337|[House Robber III][337]|
 |402|[Remove K Digits][402]|
 |473|[Match Sticks to Square][473]|
@@ -85,6 +86,7 @@
 [236]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0236.LowestCommonAncestorOfABinaryTree.cpp
 [240]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0240.SearchA2DMatrixII.cpp
 [304]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0304.RangeSumQuery2DImmutable.cpp
+[307]:
 [337]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0337.HouseRobberIII.cpp
 [402]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0402.RemoveKDigits.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp

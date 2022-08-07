@@ -2,7 +2,7 @@
 
 ![Medium](https://www.careerizma.com/wp-content/uploads/problem-solving-techniques.jpg "Medium")
 
-|No. | Question|
+|No. | Problems|
 |:---:|:----:|
 |3|[Longest Substring without Repeating Characters][3]|
 |5|[Longest Palindromic Substring][5]|

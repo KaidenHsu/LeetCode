@@ -2,7 +2,7 @@
 
 ![Easy](https://codecondo.com/wp-content/uploads/2015/07/AngularJS-easy-work.png "Easy")
 
-|No.|Question|
+|No.|Problems|
 |:---:|:----:|
 |1|[Two Sum][1]|
 |9|[Palindrome Number][9]|

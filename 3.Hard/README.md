@@ -2,7 +2,7 @@
 
 ![Hard](https://s3.amazonaws.com/www.mathnasium.com/upload/733/images/iStock_000038546718_Small.jpg "Hard")
 
-|No. | Question|
+|No. | Problems|
 |:---:|:----:|
 |4|[Median of Two Sorted Arrays][4]|
 |23|[Merge K Sorted List][23]|

@@ -44,6 +44,7 @@
 |695|[Max Area of Island][695]|
 |701|[Insert into a Binary Tree][701]|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee][714]|
+|729|[My Calendar I][729]|
 |786|[Kth Smallest Prime Fraction][786]|
 |792|[Number of Matching Subsequences][792]|
 |852|[Peak Index in a Mountain Array][852]|
@@ -92,6 +93,7 @@
 [695]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0695.MaxAreaOfIsland.cpp
 [701]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0701.InsertIntoABinarySearchTree.cpp
 [714]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0714.BestTimeToBuyAndSellStockWithTransactionFee.cpp
+[729]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0729.MyCalendarI.cpp
 [786]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0786.KthSmallestPrimeFraction.cpp
 [792]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0792.NumberOfMatchingSubsequences.cpp
 [852]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0852.PeakIndexInAMountain.cpp

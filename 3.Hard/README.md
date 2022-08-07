@@ -20,6 +20,7 @@
 |458|[Poor Pigs][458]|
 |629|[K Inverse Pairs Array][629]|
 |1074|[Number of Submatrices that Sum to Target][1074]|
+|1220|[Count Vowels Permutation][1220]|
 |1473|[Paint House III][1473]|
 
 [4]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0004.MedianOfTwoSortedArrays.cpp
@@ -38,4 +39,5 @@
 [458]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0458.PoorPigs.cpp
 [629]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0629.KInversePairsArray.cpp
 [1074]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1074.NumberOfSubmatricesThatSumToTarget.cpp
+[1220]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1220.CountVowelsPermutation.cpp
 [1473]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1473.PaintHouseIII.cpp

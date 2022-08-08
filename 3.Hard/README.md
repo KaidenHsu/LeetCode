@@ -8,6 +8,7 @@
 |23|[Merge K Sorted List][23]|
 |42|[Trapping Rain Water][42]|
 |51|[N Queens][51]|
+|52|[N Queens II][52]|
 |72|[Edit Distance][72]|
 |123|[Best Time to Buy and Sell Stock][123]|
 |124|[Binary Tree Maximum Path Sum][124]|
@@ -27,6 +28,7 @@
 [23]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0023.MergeKSortedLists.cpp
 [42]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0042.TrappingRainWater.cpp
 [51]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0051.NQueens.cpp
+[52]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0052.NQueensII.cpp
 [72]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0072.EditDistance.cpp
 [123]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0123.BestTimeToBuyAndSellStock.cpp
 [124]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0124.BinaryTreeMaximumPathSum.cpp

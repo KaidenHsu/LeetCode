@@ -20,6 +20,7 @@
 |407|[Trapping Rain Water II][407]|
 |458|[Poor Pigs][458]|
 |629|[K Inverse Pairs Array][629]|
+|987|[Vertical Order Traversal of a Binary Tree][987]|
 |1074|[Number of Submatrices that Sum to Target][1074]|
 |1220|[Count Vowels Permutation][1220]|
 |1473|[Paint House III][1473]|
@@ -40,6 +41,7 @@
 [407]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0407.TrappingRainWaterII.cpp
 [458]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0458.PoorPigs.cpp
 [629]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0629.KInversePairsArray.cpp
+[987]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0987.VerticalOrderTraversalOfABinaryTree.cpp
 [1074]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1074.NumberOfSubmatricesThatSumToTarget.cpp
 [1220]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1220.CountVowelsPermutation.cpp
 [1473]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1473.PaintHouseIII.cpp

@@ -36,6 +36,7 @@
 |704|[Binary Search][704]|
 |746|[Min Cost Climbing Stairs][746]|
 |876|[Middle of The Linked List][876]|
+|977|[Squares of a Sorted Array][977]|
 |1342|[Number of Steps to Reduce to A Number to Zero][1342]|
 |1480|[Running Sum of 1D Array][1480]|
 |2235|[Add Two Integers][2235]|
@@ -74,6 +75,7 @@
 [704]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0704.BinarySearch.cpp
 [746]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp
 [876]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0876.MiddleOfTheLinkedList.cpp
+[977]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0977.SquaresOfASortedArray.cpp
 [1342]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/1342.NumberOfStepsToReduceANumberToZero.cpp
 [1480]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/1480.RunningSumOf1DArray.cpp
 [2235]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/2235.AddTwoIntegers.cpp

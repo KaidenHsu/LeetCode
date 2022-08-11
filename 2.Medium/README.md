@@ -23,6 +23,7 @@
 |86|[Partition List][86]|
 |92|[Reverse Linked List][92]|
 |97|[Interleaving String][97]|
+|98|[Validate Binary Search Tree][98]|
 |102|[Binary Tree Level Order Traversal][102]|
 |114|[Flatten Binary Tree to Linked List][114]|
 |122|[Best Time to Buy and Sell Stock II][122]|
@@ -73,6 +74,7 @@
 [86]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0086.PartitionList.cpp
 [92]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0092.ReverseLinkedListII.cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp
+[98]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0098.ValidateBinarySearchTree.cpp
 [102]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0102.BinaryTreeLevelOrderTraversal.cpp
 [105]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0105.ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
 [114]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0114.FlattenBinaryTreeToLinkedList.cpp

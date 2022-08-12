@@ -28,6 +28,7 @@
 |131|[Palindrome Partitioning][131]|
 |144|[Binary Tree Preorder Traversal][144]|
 |206|[Reverse Linked List][206]|
+|235|[Lowest Common Ancestor of a Binary Search Tree][235]|
 |242|[Valid Anagram][242]|
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
@@ -67,6 +68,7 @@
 [131]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0131.PalindromePartitioning.cpp
 [144]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0144.BinaryTreePreOrderTraversal.cpp
 [206]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0206.ReverseLinkedList.cpp
+[235]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0235.LowestCommonAncestorOfABinarySearchTree.cpp
 [242]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0242.ValidAnagram.cpp
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp

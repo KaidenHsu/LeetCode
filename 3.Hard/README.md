@@ -6,6 +6,7 @@
 |:---:|:----:|
 |4|[Median of Two Sorted Arrays][4]|
 |23|[Merge K Sorted List][23]|
+|30|[Substring with Concatenation of All Words][30]|
 |42|[Trapping Rain Water][42]|
 |51|[N Queens][51]|
 |52|[N Queens II][52]|
@@ -27,6 +28,7 @@
 
 [4]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0004.MedianOfTwoSortedArrays.cpp
 [23]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0023.MergeKSortedLists.cpp
+[30]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0030.SubstringWithConcatenationOfAllWords.cpp
 [42]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0042.TrappingRainWater.cpp
 [51]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0051.NQueens.cpp
 [52]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0052.NQueensII.cpp

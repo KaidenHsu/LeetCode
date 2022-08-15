@@ -11,7 +11,7 @@ public:
             if((nums[l] == nums[mid]) && (nums[r] == nums[mid])) { // duplicates
                 l++;
                 r--;
-            } else if(nums[l] <= nums[mid]){ // target is in first  half
+            } else if(nums[l] <= nums[mid]){ // target is in first half
                 if((nums[l] <= target) && (nums[mid] > target)) r = mid - 1;
                 else l = mid + 1;
             } else { // target is in second half

@@ -20,6 +20,7 @@
 |63|[Unique Paths II][63]|
 |64|[Minimum Sum Path][64]|
 |77|[Combinations][77]|
+|81|[Search in a Rotated Sorted Array][81]|
 |86|[Partition List][86]|
 |92|[Reverse Linked List][92]|
 |97|[Interleaving String][97]|
@@ -71,6 +72,7 @@
 [63]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0063.UniquePathsII.cpp
 [64]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0064.MinimumPathSum.cpp
 [77]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0077.Combinations.cpp
+[81]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0081.SearchInRotatedSortedArrayII.cpp
 [86]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0086.PartitionList.cpp
 [92]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0092.ReverseLinkedListII.cpp
 [97]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0097.InterleavingString.cpp

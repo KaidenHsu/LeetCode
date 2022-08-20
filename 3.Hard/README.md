@@ -44,7 +44,7 @@
 [407]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0407.TrappingRainWaterII.cpp
 [458]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0458.PoorPigs.cpp
 [629]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0629.KInversePairsArray.cpp
-[871]:
+[871]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0871.MinimumNumberOfRefuelingStops.cpp
 [987]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/0987.VerticalOrderTraversalOfABinaryTree.cpp
 [1074]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1074.NumberOfSubmatricesThatSumToTarget.cpp
 [1220]:https://github.com/KaidenHsu/LeetCode/blob/main/3.Hard/1220.CountVowelsPermutation.cpp

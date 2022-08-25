@@ -7,8 +7,8 @@ public:
         for(char c: magazine) v[c - 'a']++;
         
         for(char c: ransomNote){
-            if(v[c-'a'] == 0) return false;
-            else v[c-'a']--;
+            if(v[c - 'a'] == 0) return false;
+            else v[c - 'a']--;
         }
         
         return true;

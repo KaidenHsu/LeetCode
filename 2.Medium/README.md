@@ -26,6 +26,7 @@
 |97|[Interleaving String][97]|
 |98|[Validate Binary Search Tree][98]|
 |102|[Binary Tree Level Order Traversal][102]|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal][105]|
 |114|[Flatten Binary Tree to Linked List][114]|
 |122|[Best Time to Buy and Sell Stock II][122]|
 |138|[Copy List With Random Pointer][138]|

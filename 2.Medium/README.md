@@ -33,6 +33,7 @@
 |155|[Min Stack][155]|
 |198|[House Robber][198]|
 |199|[Binary Tree Right Side View][199]|
+|200|[Number of Islands][200]|
 |213|[House Robber II][213]|
 |222|[Count Complete TreeNodes][222]|
 |236|[Lowest Common Ancestor of a Binary Tree][236]|
@@ -86,6 +87,7 @@
 [155]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0155.MinStack.cpp
 [198]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0198.HouseRobber.cpp
 [199]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0199.BinaryTreeRightSideView.cpp
+[200]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0200.NumberOfIslands.cpp
 [213]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0213.HouseRobberII.cpp
 [222]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0222.CountCompleteTreeNodes.cpp
 [236]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0236.LowestCommonAncestorOfABinaryTree.cpp

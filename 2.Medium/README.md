@@ -44,6 +44,7 @@
 |307|[Range Sum Query Mutable][307]|
 |337|[House Robber III][337]|
 |402|[Remove K Digits][402]|
+|429|[N-ary Tree Level Order Traversal][429]|
 |450|[Delete Node in a BST][450]|
 |473|[Match Sticks to Square][473]|
 |560|[Subarray Sum Equals K][560]|
@@ -99,6 +100,7 @@
 [307]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0307.RangeSumQueryMutable.cpp
 [337]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0337.HouseRobberIII.cpp
 [402]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0402.RemoveKDigits.cpp
+[429]:
 [450]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0450.DeleteNodeInABST.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [560]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0560.SubarraySumEqualsK.cpp

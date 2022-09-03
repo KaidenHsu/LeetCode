@@ -100,7 +100,7 @@
 [307]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0307.RangeSumQueryMutable.cpp
 [337]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0337.HouseRobberIII.cpp
 [402]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0402.RemoveKDigits.cpp
-[429]:
+[429]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0429.N-aryTreeLevelOrderTraversal.cpp
 [450]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0450.DeleteNodeInABST.cpp
 [473]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0473.MatchSticksToSquare.cpp
 [560]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0560.SubarraySumEqualsK.cpp

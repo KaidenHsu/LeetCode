@@ -55,6 +55,7 @@
 |729|[My Calendar I][729]|
 |786|[Kth Smallest Prime Fraction][786]|
 |792|[Number of Matching Subsequences][792]|
+|814|[Binary Tree Pruning][814]|
 |852|[Peak Index in a Mountain Array][852]|
 |855|[Exam Room][855]|
 |890|[Find and Replace Pattern][890]|
@@ -111,6 +112,7 @@
 [729]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0729.MyCalendarI.cpp
 [786]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0786.KthSmallestPrimeFraction.cpp
 [792]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0792.NumberOfMatchingSubsequences.cpp
+[814]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0814.BinaryTreePruning.cpp
 [852]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0852.PeakIndexInAMountain.cpp
 [855]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0855.ExamRoom.cpp
 [890]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0890.FindAndReplacePattern.cpp

@@ -4,6 +4,7 @@
 
 |No. | Problems|
 |:---:|:----:|
+|2|[Add Two Integers][2]|
 |3|[Longest Substring without Repeating Characters][3]|
 |5|[Longest Palindromic Substring][5]|
 |15|[3 Sum][15]|
@@ -61,6 +62,7 @@
 |890|[Find and Replace Pattern][890]|
 |1696|[Jump Game IV][1696]|
 
+[2]:
 [3]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0003.LongestSubstringWithoutRepeatingCharacters.cpp
 [5]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0005.LongestPalindromicSubstring.cpp
 [15]:https://github.com/KaidenHsu/LeetCode/blob/main/2.Medium/0015.3Sum.cpp

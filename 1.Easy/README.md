@@ -77,6 +77,7 @@
 [383]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0383.RansomNote.cpp
 [412]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0412.FizzBuzz.cpp
 [509]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0509.FibonacciNumber.cpp
+[606]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0606.ConstructStringFromBinaryTree.cpp
 [700]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0700.SearchInABinaryTree.cpp
 [704]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0704.BinarySearch.cpp
 [746]:https://github.com/KaidenHsu/LeetCode/blob/main/1.Easy/0746.MinCostClimbingStairs.cpp

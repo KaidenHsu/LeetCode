@@ -34,6 +34,7 @@
 |383|[Ransom Note][383]|
 |412|[Fizz Buzz][412]|
 |509|[Fibonacci Number][509]|
+|606|[Construct String from Binary Tree][606]|
 |700|[Search in a Binary Tree][700]|
 |704|[Binary Search][704]|
 |746|[Min Cost Climbing Stairs][746]|

@@ -21,7 +21,7 @@ public:
 
         // edge case
         if (marker == 0) {
-            // return the ascending order of the vector
+            // return the vector in ascending order
             reverse(0, nums.size()-1, nums);
             return;
         }

@@ -1,5 +1,5 @@
 ![LeetCode](https://cdn-images-1.medium.com/fit/t/1600/480/1*M91sQU9KEV1qqjExEliLUQ.jpeg "Leetcode")
-This is my compilation of LeetCode solutions written in C++ and Python.
+This is my compilation of LeetCode solutions written in C++ and Python3.
 I will keep updating this repository from time to time.
 Feel free to reach out to me or make a pull request if you find any mistakes. 🤡
 

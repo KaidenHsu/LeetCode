@@ -5,7 +5,7 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
-        // If the first row or first column should be set to zeros
+        // If the first row and first column should be set to zeros
         int first_col = 0, first_row = 0;
 
         for (int i = 0; i < m; i++)

@@ -17,8 +17,7 @@ private:
             int _y = y + Dy[i];
 
             if (_x >= 0 && _x < m && _y >= 0 && _y < n && !visited[_x][_y]) {
-                if (dfs(board, word, cnt+1, _x, _y))
-                    return true;
+                if (dfs(board, word, cnt+1, _x, _y)) return true;
                 visited[_x][_y] = false;
             }
         }
